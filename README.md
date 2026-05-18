@@ -13,13 +13,13 @@ A desktop application for creating professional PDF resumes with an intuitive Ja
 
 ## Features
 
-✨ **User Authentication**
+**User Authentication**
 - Secure login and account creation
 - Email validation (Gmail required)
 - Password strength requirements (minimum 6 characters)
 - Persistent user storage
 
-📝 **Resume Building**
+**Resume Building**
 - Personal Information (name, contact, social profiles)
 - Education details (degree, institution, CGPA)
 - Work Experience with date tracking
@@ -27,14 +27,14 @@ A desktop application for creating professional PDF resumes with an intuitive Ja
 - Certifications with issuing authority
 - Languages and Hobbies
 
-📄 **PDF Generation**
+**PDF Generation**
 - Professional formatting with page borders
 - Profile picture support
 - Clickable hyperlinks (LinkedIn, GitHub, Email)
 - Page numbers and footer
 - Organized sections with tables
 
-🎨 **User Interface**
+**User Interface**
 - Clean, intuitive JavaFX design
 - File chooser for profile pictures
 - Date pickers for all date fields
@@ -146,14 +146,6 @@ Resume_Builder/
 - **Disk Space**: 100 MB
 - **Display**: Minimum 1024x768 resolution
 
-## License
-
-This project is open source and available under the MIT License.
-
 ## Author
 
 **Thrisha Rajesh**
-
----
-
-**Happy Resume Building!** 🚀
